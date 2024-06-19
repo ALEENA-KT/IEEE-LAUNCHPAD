@@ -10,11 +10,7 @@ Hi, I'm Aleena K T, an Electrical and Electronics Engineering student at NSS Eng
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Design And Development Of A 5 KW Modular Solar Grid-Connected Converter|   |This project developed a three-phase two-level converter topology with in-phase AC side voltages and currents,improved DC link voltage regulation, and a novel constant switching frequency. This approach reduces Common
-Mode Voltage (CMV) and switching losses, ensuring superior converter performance compared to existing
-technologies
-• The project, utilizing MATLAB, Simulink, TMS320F28379D Microcontroller, and Code Composer Studio IDE,
-developed a three-phase two-level converter with improved DC link voltage regulation and reduced switching losses                                              |   | [Repo link1](https://github.com/ALEENA-KT/Final_Year_Project.git)    |
+| Design And Development Of A 5 KW Modular Solar Grid-Connected Converter|   |This project developed a three-phase two-level converter topology with in-phase AC side voltages and currents,improved DC link voltage regulation, and a novel constant switching frequency. This approach reduces CommonMode Voltage (CMV) and switching losses, ensuring superior converter performance compared to existing technologies.  |   | [Repo link1](https://github.com/ALEENA-KT/Final_Year_Project.git)    |
 | Dyuksha Mobile App| Developed a NSSCE Techfest app UI using figma|   [hosted link2](https://play.google.com/store/apps/details?id=com.dyuksha.d23)  | [Repo Link 2](https://github.com/ALEENA-KT/DyukshaApp-UI.git) 
 | TinkerHub Foundation website| Developed TinkerHub Foundation website UI using figma | [Repo Link 3](https://github.com/ALEENA-KT/Tinkerhubwebsiteui.git) |
 
