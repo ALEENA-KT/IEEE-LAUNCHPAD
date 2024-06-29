@@ -1,156 +1,44 @@
-# IEEE LAUNCHPAD Job Fair
+# ALEENA K T 
 
+### About Me
 
+Hi, I'm Aleena K T, an Electrical and Electronics Engineering student at NSS Engineering College, Palakkad. I'm passionate about Embedded Systems and VLSI and have hands-on experience with some projects. I'm excited to collaborate with like-minded individuals and explore innovative solutions. Teamwork and learning are my drivers. I enjoy working in team settings, as I believe that collaboration leads to the best solutions. My experiences have taught me the value of diverse perspectives and the importance of effective communication and teamwork in achieving project goals. I am eager to contribute to a dynamic team and work on projects that make a meaningful impact.Let's connect and create something amazing!"
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| Design And Development Of A 5 KW Modular Solar Grid-Connected Converter|   |This project developed a three-phase two-level converter topology with in-phase AC side voltages and currents,improved DC link voltage regulation, and a novel constant switching frequency. This approach reduces CommonMode Voltage (CMV) and switching losses, ensuring superior converter performance compared to existing technologies.  |   | [Repo link1](https://github.com/ALEENA-KT/Final_Year_Project.git)    |
+| Dyuksha Mobile App| Developed a NSSCE Techfest app UI using figma|   [hosted link2](https://play.google.com/store/apps/details?id=com.dyuksha.d23)  | [Repo Link 2](https://github.com/ALEENA-KT/DyukshaApp-UI.git) 
+| TinkerHub Foundation website| Developed TinkerHub Foundation website UI using figma | [Repo Link 3](https://github.com/ALEENA-KT/Tinkerhubwebsiteui.git) |
 
+#### Leadership and Influence:
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+Throughout my academic journey, I have demonstrated strong leadership skills as a Core Team Member of the IEEE Power Energy Society, Treasurer of the Industrial Electronics Society IEEE, Chief Marketing Officer at IEDC NSSCE, Media Lead at Tinker Hub NSSCE, and a Core Team Member of the Google Developer Student Club NSSCE. I have successfully managed financial operations, led marketing campaigns, coordinated media presence, and organized technical events. My leadership in these roles has been instrumental in fostering collaboration, driving engagement, and ensuring the success of various initiatives. I am eager to apply my leadership experience and technical skills to new challenges and opportunities.
 
+#### Networking:
+I have developed strong networking skills that have been crucial in both my academic and extracurricular activities. My involvement in various organizations and projects has provided me with ample opportunities to build and leverage professional relationships.My ability to work collaboratively has been vital in my networking efforts. Serving as a Core Team Member for the IEEE Power Energy Society and the Google Developer Student Club NSSCE, I have worked with fellow students, faculty, and industry professionals to organize events and workshops. These experiences have taught me the importance of building a strong team and fostering a collaborative environment.These interactions have not only expanded my knowledge but also helped me establish valuable connections that could be beneficial for future collaborations and career opportunities.
+#### Career Plan:
 
+I am eager to begin my career journey as a fresher in the industry. My immediate goal is to secure a role that offers hands-on experience, allowing me to apply my academic knowledge and project skills in real-world settings. I plan to continuously develop my expertise through online courses, certifications, and professional workshops, staying abreast of the latest technological advancements. Over time, I aspire to progress to leadership roles such as Project Lead  where I can oversee innovative projects and mentor junior engineers. I am committed to contributing to the engineering community by participating in professional organizations and industry conferences, sharing insights, and learning from peers. By leveraging my teamwork and collaboration skills, honed through my involvement in various student organizations, I aim to drive successful project outcomes while fostering an inclusive work environment. Adaptability and a commitment to lifelong learning will be key to my journey, enabling me to stay at the forefront of technological advancements and make meaningful contributions to the field of electronics.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
+Kerala's tech ecosystem is rapidly evolving into a dynamic and vibrant hub for innovation and entrepreneurship. The state's strong emphasis on education and skill development has produced a highly talented and technically proficient workforce. Initiatives like the Kerala Startup Mission and various tech parks across the state provide crucial support and infrastructure for budding entrepreneurs and startups. The presence of numerous incubators, accelerators, and collaborative spaces fosters a culture of innovation and collaboration. Additionally, Kerala's commitment to sustainable and inclusive growth is reflected in its tech initiatives that focus on solving real-world problems and improving the quality of life for its citizens. The synergy between government, academia, and industry in Kerala creates a conducive environment for technological advancements, making it an exciting place for tech enthusiasts and professionals to thrive.
 
+#### History of Open Source Contributions:
 
+My involvement in the open-source community has been both enriching and impactful, particularly through participating in hackathons and contributing to various projects. Competing in events like Tink-Her-Hack, where my team won second place at the zonal level, has allowed me to collaborate with talented peers and develop innovative solutions under time constraints. 
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### Highly Used Software Tools:
 
-#
+Matlab,Simulink,Etap,Code composer studio,Visual studio code
 
+#### Competitive Website Profiles:
 
-
-
-<div align="center">
-
-
-
-
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
-
-> **Watch the onboarding video-👆**
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
+[Hackerrank](https://www.hackerrank.com/profile/aleenakt805)
 
 
 ---
